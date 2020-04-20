@@ -38,7 +38,6 @@
     "google",
     "google actions",
     "google assistant",
-    "client library"
   ],
   "devDependencies": {
     "@gerrit0/typedoc": "^0.15.0",
